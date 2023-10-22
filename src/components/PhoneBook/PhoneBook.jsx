@@ -117,4 +117,4 @@ class App extends Component {
   }
 }
 
-export default PhoneBook;
+export default App;
